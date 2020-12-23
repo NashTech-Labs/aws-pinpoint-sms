@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: dispatcher-sms
+aws:
+  region: us-east-1
+  accessKey: ${AWS_ACCESSKEY}
+  secretKEy: ${AWS_SECRETKEY}
